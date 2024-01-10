@@ -24,6 +24,7 @@ li {
 }
 
 body {
+    min-width: 1980px;
     color: #333;
     font-family: 'Noto Sans KR', sans-serif;;
     background-color: #e9e9eb;
